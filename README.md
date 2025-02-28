@@ -1,4 +1,4 @@
-Password Generator 🔒
+Password Generator App 🔒
 
 A simple yet powerful tool to generate strong, secure, and random passwords instantly. Built using HTML, CSS, and JavaScript, this project is designed to help users create unique passwords for enhanced online security.
 

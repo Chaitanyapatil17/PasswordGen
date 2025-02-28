@@ -9,7 +9,7 @@ Screenshots 🖼️
 ![image](https://github.com/user-attachments/assets/f6069c48-efc0-4e53-9808-c14339d5cf7a)
 
 Technologies Used 🛠️
-HTML: For structuring the web page.
+HTML: For structuring web page.
 
 CSS: For styling and responsive design.
 
